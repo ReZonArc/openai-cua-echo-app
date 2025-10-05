@@ -9,7 +9,7 @@ This example demonstrates the enhanced Computer Use Agent with:
 """
 
 from agent import TreeEchoMLAgent
-from computers import LocalPlaywrightBrowser
+from computers.default import LocalPlaywrightBrowser
 
 
 def main():

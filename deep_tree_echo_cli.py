@@ -8,9 +8,8 @@ organizes interactions in a hierarchical tree structure.
 
 import argparse
 from agent import TreeEchoMLAgent
-from computers.config import *
+from computers.config import computers_config
 from computers.default import *
-from computers import computers_config
 
 
 def acknowledge_safety_check_callback(message: str) -> bool:
