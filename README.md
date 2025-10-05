@@ -21,6 +21,22 @@ Run CLI to let CUA use a local browser window, using [playwright](https://playwr
 python cli.py --computer local-playwright
 ```
 
+### 🌳 NEW: Deep Tree Echo ML Agent
+
+Experience the enhanced agent with machine learning capabilities and pattern recognition:
+
+```shell
+python deep_tree_echo_cli.py --computer local-playwright --show
+```
+
+The Deep Tree Echo ML Agent adds:
+- **Hierarchical Learning**: Organizes interactions in a tree structure
+- **Pattern Recognition**: Learns from your behavior patterns
+- **Echo Functionality**: Provides intelligent suggestions based on learned patterns
+- **Persistent Memory**: Saves learning data across sessions
+
+See [DEEP_TREE_ECHO_ML.md](DEEP_TREE_ECHO_ML.md) for detailed documentation.
+
 > [!NOTE]  
 > The first time you run this, if you haven't used Playwright before, you will be prompted to install dependencies. Execute the command suggested, which will depend on your OS.
 
