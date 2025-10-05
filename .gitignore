@@ -2,3 +2,7 @@ __pycache__/
 .env
 .venv/
 env/
+
+# Deep Tree Echo ML learning data
+*tree_echo*.json
+deep_tree_echo_data.json
